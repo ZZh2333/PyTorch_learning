@@ -1,0 +1,2 @@
+# conda
+pytorch=1.4.0
